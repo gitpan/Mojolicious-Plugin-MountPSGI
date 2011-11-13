@@ -1,0 +1,9 @@
+Changes
+lib/Mojolicious/Plugin/MountPSGI.pm
+lib/Mojolicious/Plugin/MountPSGI/Proxy.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/basic.t
+t/script/app.psgi
+META.yml                                 Module meta-data (added by MakeMaker)
