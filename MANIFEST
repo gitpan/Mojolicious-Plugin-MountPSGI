@@ -6,4 +6,5 @@ MANIFEST			This list of files
 README
 t/basic.t
 t/script/app.psgi
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
